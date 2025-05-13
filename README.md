@@ -55,7 +55,7 @@ The project is structured with **clean architecture principles**, making it scal
    cd JWTAuth
    ```
 
-2. **Set up your database connection** in `appsettings.json`:
+2. **Set up your database connection** in `appsettings.json`
 
 3. **Run the migrations** to set up the database:
    ```bash
