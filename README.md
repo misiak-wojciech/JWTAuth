@@ -1,5 +1,5 @@
 
-# 🔐 JWTAuth API
+## JWTAuth API
 
 A simple, secure RESTful Web API built with **ASP.NET Core 9**, implementing **JWT (JSON Web Token) Authentication** for user login and registration.  
 User data is stored using **Entity Framework Core** with **SQL Server**.  
@@ -7,7 +7,7 @@ The project is structured with **clean architecture principles**, making it scal
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **.NET 9**
 - **ASP.NET Core Web API**
@@ -21,7 +21,7 @@ The project is structured with **clean architecture principles**, making it scal
 
 ---
 
-## 🚀 Endpoints
+## Endpoints
 
 ### 1. **POST /api/auth/register**
    - **Description**: Registers a new user.
@@ -47,7 +47,7 @@ The project is structured with **clean architecture principles**, making it scal
    - **Description**: Refreshes the JWT access and refresh tokens.
 ---
 
-## 📫 How to Use
+## How to Use
 
 1. **Clone the repository**:
    ```bash
